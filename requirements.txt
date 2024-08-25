@@ -1,0 +1,9 @@
+requests
+beautifulsoup4
+Flask
+waitress
+telethon
+python-dotenv
+fake_useragent
+playwright==1.42.0
+pytz
